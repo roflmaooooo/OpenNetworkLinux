@@ -1,18 +1,18 @@
 [submodule "packages/base/any/initrds/buildroot/builds/buildroot-mirror"]
 	path = packages/base/any/initrds/buildroot/builds/buildroot-mirror
-	url = git://github.com/opennetworklinux/buildroot-mirror
+	url = git://github.com/opennetworklinux/buildroot-mirror/tree/5e1a5c1ef7bac890845920809147ee2070dc96ea
 [submodule "packages/base/any/kernels/legacy/linux-3.9.6"]
 	path = packages/base/any/kernels/legacy/linux-3.9.6
-	url = git://github.com/opennetworklinux/linux-3.9.6
+	url = git://github.com/opennetworklinux/linux-3.9.6/tree/f8e07fad377b0a15bf3d0fd60858d78b5587f541
 [submodule "sm/infra"]
 	path = sm/infra
-	url = git://github.com/floodlight/infra
+	url = git://github.com/floodlight/infra/tree/af32e738740c0f03af9c4d4db4e8ef6d37e835a1
 [submodule "sm/bigcode"]
 	path = sm/bigcode
-	url = git://github.com/floodlight/bigcode
+	url = git://github.com/floodlight/bigcode/tree/2e5f97dd0604c6a60f6da2e588c27027ebdb062d
 [submodule "packages/base/any/kernels/legacy/linux-3.8.13"]
 	path = packages/base/any/kernels/legacy/linux-3.8.13
-	url = git://github.com/opennetworklinux/linux-3.8.13
+	url = git://github.com/opennetworklinux/linux-3.8.13/tree/989e79ebcaae05c4027d2a15dd0618ab36468408
 [submodule "packages/platforms-closed"]
 	path = packages/platforms-closed
 	url = git@github.com:opennetworklinux/platforms-closed
